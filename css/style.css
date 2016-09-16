@@ -276,7 +276,8 @@ h5 small,
 h6 small,
 .h1 small,
 .h2 small,
-.h3 small,
+.
+small,
 .h4 small,
 .h5 small,
 .h6 small {
@@ -307,7 +308,7 @@ h2,
 }
 h3,
 .h3 {
-  font-size: 30px;
+  font-size: 100px;
 }
 h4,
 .h4 {
