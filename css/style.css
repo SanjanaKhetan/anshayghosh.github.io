@@ -1,7 +1,7 @@
 
 /* Use the following CSS code if you want to use data attributes for inserting your icons */
 [data-icon]:before {
-  font-family: 'Flat-UI-Icons';
+  font-family: Tahoma, Geneva, sans-serif;
   content: attr(data-icon);
   speak: none;
   font-weight: normal;
@@ -47,7 +47,7 @@ you can use the generic selector below, but it's slower:
 .fui-play,
 .fui-check-inverted-2 {
   display: inline-block;
-  font-family: 'Flat-UI-Icons';
+  font-family: Tahoma, Geneva, sans-serif;
   speak: none;
   font-style: normal;
   font-weight: normal;
@@ -3794,7 +3794,7 @@ fieldset[disabled] .twitter-typeahead .tt-hint {
 }
 .todo-search:before {
   position: absolute;
-  font-family: 'Flat-UI-Icons';
+  font-family: Tahoma, Geneva, sans-serif;
   content: "\e01c";
   font-size: 16px;
   line-height: 17px;
@@ -4006,7 +4006,7 @@ body.vjs-full-window {
 .vjs-play-control div:before,
 .vjs-play-control div:after {
   position: absolute;
-  font-family: "Flat-UI-Icons";
+  font-family: Tahoma, Geneva, sans-serif;
   color: #1abc9c;
   font-size: 16px;
   top: 50%;
