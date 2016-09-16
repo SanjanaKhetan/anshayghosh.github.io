@@ -210,7 +210,7 @@ you can use the generic selector below, but it's slower:
 body {
 	height: 100%;
 	width: 100%;
-  font-family: "Times New Roman", Times, serif;
+  font-family: #e7e9ec;
   font-size: 16px;
   line-height: 1.72222;
   color: #34495e;
@@ -473,7 +473,7 @@ code,
 kbd,
 pre,
 samp {
-  font-family:Times New Roman;
+  font-family:Tahoma, Geneva, sans-serif;
 }
 code {
   padding: 2px 6px;
@@ -1162,7 +1162,7 @@ label {
 .form-control {
   border: 2px solid #bdc3c7;
   color: #34495e;
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 15px;
   line-height: 1.467;
   padding: 8px 12px;
@@ -1974,7 +1974,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
 .navbar-toggle:before {
   color: #34495e;
   content: "\e00c";
-  font-family: "Flat-UI-Icons";
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: normal;
@@ -2210,7 +2210,7 @@ select[multiple].navbar-form .btn {
 }
 .navbar-unread,
 .navbar-new {
-  font-family: Times New Roman;
+  font-family: Tahoma, Geneva, sans-serif;
   background-color: #1abc9c;
   border-radius: 50%;
   color: #ffffff;
@@ -2730,7 +2730,7 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
   background: transparent;
   border: none;
   color: #34495e;
-  font-family:"Times New Roman";
+  font-family:Tahoma, Geneva, sans-serif;
   font-size: 14px;
   margin: 0px;
   padding: 0 0 0 5px;
@@ -2758,7 +2758,7 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
 .tagsinput-remove-link:before {
   color: #ffffff;
   content: "\e00b";
-  font-family: "Times New Roman", Times, serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .tagsinput-add-container {
   vertical-align: middle;
@@ -2783,7 +2783,7 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
 }
 .tagsinput-add:before {
   content: "\e009";
-  font-family: "Times New Roman", Times, serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .tags_clear {
   clear: both;
@@ -2802,7 +2802,7 @@ fieldset[disabled] .navbar-inverse .navbar-btn.active {
 .twitter-typeahead .tt-hint {
   border: 2px solid #bdc3c7;
   color: #34495e;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 15px;
   line-height: 1.467;
   padding: 8px 12px;
@@ -3972,7 +3972,7 @@ body.vjs-full-window {
   bottom: 4em;
   left: 1em;
   right: 1em;
-  font-family: "Times New Roman", Times, serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 .video-js .vjs-text-track {
   display: none;
