@@ -1,7 +1,3 @@
-#Flatfy - Theme | New Version!
+Anshay Ghosh's Professional Personal Website!
 
-##Responsive Mobile & Flat Design 
-Own Carousel & Bootstrap Framework CSS 
-Font Icon Svg & Animate
-
-Theme made by [Andrea Galanti](http://www.andreagalanti.it/flatfy.php)
+Boiler Plate code for theme : Flatfy html template
